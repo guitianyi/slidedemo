@@ -29,10 +29,10 @@ class:1 17本 化学与分子工程学院
 
 ```c
 int main()
-{
+{main()
   printf("Hello world\n");
   return 0 ;
-}
+0}
 ```
 
 
