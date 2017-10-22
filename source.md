@@ -44,7 +44,7 @@ int main()
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## `\(\LaTeX{}\)` in remark 其实并没有
 
 
 1. This is an inline integral: `\(\int_a^bf(x)dx\)`
