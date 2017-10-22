@@ -25,15 +25,9 @@ class:1 17本 化学与分子工程学院
 
 ---
 
-## 第一部分 但我会认真学习的
+## 第一部分 但我会认真学习的(绪论课都听不懂）
 
-```c
-int main()
-{main()
-  printf("Hello world\n");
-  return 0 ;
-0}
-```
+hellow world
 
 
 ## 插图
