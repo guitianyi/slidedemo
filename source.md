@@ -1,13 +1,13 @@
-class: center, middle
+class:1 17本 化学与分子工程学院
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 桂天益 (1700011801@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/guiyianyi
 
 ---
 
